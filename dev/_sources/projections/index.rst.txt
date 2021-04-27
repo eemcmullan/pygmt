@@ -688,7 +688,7 @@ Non-geographic Projections
 
 .. raw:: html
 
-    <div class="sphx-glr-thumbcontainer" tooltip="Polar projections allow plotting polar coordinate data (e.g. angle \theta and radius *r*). ">
+    <div class="sphx-glr-thumbcontainer" tooltip="Polar projections allow plotting polar coordinate data (e.g. angle \theta and radius *r*).">
 
 .. only:: html
 
